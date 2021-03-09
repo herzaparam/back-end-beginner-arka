@@ -5,15 +5,7 @@ an API ticketing movie which can book cinema seat by choosing the film, schedule
 ## Getting Started
 
 ### Prerequisites
-1.you can download [node.js](https://nodejs.org/en/download/)
-2.nodemon
-3.morgan
-4.cors
-5.dotenv
-6.express
-7.mysql2
-8.http-error
-9.standadjs
+[node.js](https://nodejs.org/en/download/), nodemon, morgan, cors, dotenv, express, mysql2, http-error, standadjs
 
 ### Installing
 1. after installation setup, initialize your node
